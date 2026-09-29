@@ -4,8 +4,9 @@ Agente de IA que acompanha metas financeiras pessoais, analisa gastos e recomend
 
 > Rodando 100% local, via [Ollama](https://ollama.com), com interface em [Streamlit](https://streamlit.io).
 
-![Demonstração da Mia respondendo perguntas sobre metas financeiras](assets/Exemplo.gif)
-
+<p align="center">
+  <img src="assets/Exemplo.gif" alt="Demonstração da Mia respondendo perguntas sobre metas financeiras" width="600">
+</p>
 ---
 
 ## Índice
