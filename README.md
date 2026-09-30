@@ -7,7 +7,7 @@ Agente de IA que acompanha metas financeiras pessoais, analisa gastos e recomend
 <p align="center">
   <img src="assets/Exemplo.gif" alt="Demonstração da Mia respondendo perguntas sobre metas financeiras" width="600">
 </p>
----
+
 
 ## Índice
 
