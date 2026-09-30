@@ -9,6 +9,7 @@ Agente de IA que acompanha metas financeiras pessoais, analisa gastos e recomend
 </p>
 
 
+
 ## Índice
 
 - [O Problema](#o-problema)
@@ -174,6 +175,7 @@ O agente foi testado em cinco categorias — Funcionalidade, Anti-alucinação, 
 
 ## Pitch
 
-Vídeo de apresentação (3 min): _[link a ser adicionado]_
+Vídeo de apresentação em [`Google Drive`](https://drive.google.com/file/d/1_qqLCms5cgAoZLHJ8U5TJ1qXv_8iM4Xs/view?usp=sharing).
 
-Roteiro completo em [`docs/05-pitch.md`](docs/05-pitch.md).
+Roteiro do Pitch disponível em [`/docs/05-pitch.md`](https://github.com/piruetai/agente-de-ia/blob/main/docs/05-pitch.md).
+
